@@ -1,0 +1,5 @@
+Para nosso programa funcionar precisa de:
+1- abrir layout e ipmanager em uma maquina.
+2- abrir servechat e ipmanager em uma segunda maquina.
+3- fazer a conexão entre ambas pelo ipv4.
+4- em servechat ira pedir um login e uma senha que são pré-definidos, login = ADM e senha = 123
